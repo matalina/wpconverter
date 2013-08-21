@@ -3,6 +3,7 @@
 To convert a WordPress xml file into Wardrobe install.
 
 To install:
+
 1. Drop the ConvertFromWordpress.php file into your app/commands directory of Wardrobe
 2. Add the code below to ```start/artisan.php```
 ```
